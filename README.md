@@ -11,7 +11,7 @@ I am Seontaek Lim, a web developer who creates spaces.
 * 2024.07 - 2024.12 Woongjin Full-stack Developer(JAVA) Course 2nd Period.
 
 ### Social
-* mail seontaek1998@gmail.com
+* seontaek1998@gmail.com
 * [linkedin](www.linkedin.com/in/선택-임-a08208335)
 * [instagram](https://www.instagram.com/seontaek_lim/)
 * [velog](https://velog.io/@seontaek1998/posts)
