@@ -4,6 +4,8 @@ I am Seontaek Lim, a web developer who creates spaces.
 ### ⌨️ Hard Skills
 * Java, Spring, SQL, AWS, HTML, CSS, JavaScript, Git, Github
 
+### ☑️ License
+* SQL Developer(K-Data)
       
 ### 🗒️ Running Record
 * 2024.07 - 2024.12 Woongjin Full-stack Developer(JAVA) Course 2nd Period.
